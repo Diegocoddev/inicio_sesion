@@ -33,7 +33,7 @@ formulario.addEventListener("submit", (evento)=> {
         //console.log(user);
         //console.log("Inició Sesión");
 
-        window.location.href = "./landing-page-starwars/index.html"
+        window.location.href = "./Bienvenida/index.html"
         // ...
       })
       .catch((error) => {
